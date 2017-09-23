@@ -11,7 +11,7 @@
                                         <key>kind</key>
                                         <string>software-package</string>
                                         <key>url</key>
-                                        <string>http://cdn-xq-jlfz.365b.com/app/trunk/dragonfantasy_small.ipa</string>
+                                        <string>http://cdn-xq-jlfz.365b.com/app/publish/dragonfantasy.ipa</string>
                                 </dict>
                         </array>
                         <key>metadata</key>
@@ -23,7 +23,7 @@
                                 <key>kind</key>
                                 <string>software</string>
                                 <key>title</key>
-                                <string>DragonFantasy</string>
+                                <string>dragonfantasy</string>
                         </dict>
                 </dict>
         </array>
